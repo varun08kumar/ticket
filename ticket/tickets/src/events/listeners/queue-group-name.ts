@@ -1,0 +1,1 @@
+export const queueGroupName= 'tickets-service'; // This should match the queue group name used in the publisher
